@@ -10,9 +10,8 @@ const App = () => {
         <div className="col-md-8">
           <h4 className="text-muted small d-flex justify-content-start">₹70.8 Lac EMI ~32K Need Home Loan? Check Eligibility</h4>
           <h4 className="text-muted  d-flex justify-content-start">2 BHK Flat For Sale in Myra, <b> <span className="text-dark">Kompally, Hyderabad</span></b></h4>
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRcGr_mtY8F5b_M6y0ez8EF7_a8IMNvoA9A&s" alt="main-property" className="img-fluid rounded mb-3" />
-          <div className="d-flex gap-5 wrap">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRcGr_mtY8F5b_M6y0ez8EF7_a8IMNvoA9A&s" className="img-thumbnail" width="100" />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRcGr_mtY8F5b_M6y0ez8EF7_a8IMNvoA9A&s" alt="main-property" className="img-fluid rounded mb-4 " />
+          <div className="d-flex gap-5">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRcGr_mtY8F5b_M6y0ez8EF7_a8IMNvoA9A&s" className="img-thumbnail" width="100" />
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRcGr_mtY8F5b_M6y0ez8EF7_a8IMNvoA9A&s" className="img-thumbnail" width="100" />
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRcGr_mtY8F5b_M6y0ez8EF7_a8IMNvoA9A&s" className="img-thumbnail" width="100" />
@@ -21,7 +20,7 @@ const App = () => {
         </div>
         <div className="col-md-4">
           <div className=" p-3 rounded">
-            <div className="d-flex justify-content-center mb-2 small">
+            <div className="d-flex justify-content-center  mb-4 small">
               <b>
               <span>🛏️ 2 Beds</span>
               <span>🛁 2 Baths</span><br/>
